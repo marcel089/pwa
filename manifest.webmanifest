@@ -1,0 +1,45 @@
+{
+    "name": "Fancy TV - Watch better TV",
+    "short_name": "Fancy TV",
+    "start_url": "/pwa/index.html",
+    "description": "Fancy TV",
+    "background_color": "black",
+    "theme_color": "black",
+    "display": "fullscreen",
+    "icons": [{
+        "src": "static/img/mk-48.png",
+        "sizes": "48x48",
+        "type": "image/png",
+        "purpose": "any"
+    }, {
+        "src": "static/img/mk-72.png",
+        "sizes": "72x72",
+        "type": "image/png",
+        "purpose": "any"
+    }, {
+        "src": "static/img/mk-96.png",
+        "sizes": "96x96",
+        "type": "image/png",
+        "purpose": "any"
+    }, {
+        "src": "static/img/mk-144.png",
+        "sizes": "144x144",
+        "type": "image/png",
+        "purpose": "any"
+    }, {
+        "src": "static/img/mk-168.png",
+        "sizes": "168x168",
+        "type": "image/png",
+        "purpose": "any"
+    }, {
+        "src": "static/img/mk-192.png",
+        "sizes": "192x192",
+        "type": "image/png",
+        "purpose": "maskable"
+    }, {
+        "src": "static/img/mk-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any"
+    }]
+}
